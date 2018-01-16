@@ -1,0 +1,7 @@
+#brunch-noop
+
+- Clone https://github.com/hors-lignes/brunch-noop.git
+- with CLI, in cloned folder :
+	* cd dev
+	* npm i
+	* npm start

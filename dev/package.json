@@ -1,0 +1,25 @@
+{
+	"name": "brunch-noop",
+	"description": "Noop app builder",
+	"private": true,
+	"author": "Hors-Lignes",
+	"version": "0.0.1",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"scripts": {
+		"start": "brunch w",
+		"build": "brunch b -p"
+	},
+	"dependencies": {
+		"jquery": "^3.2.1"
+	},
+	"devDependencies": {
+		"auto-reload-brunch": "^2",
+		"brunch": "^2",
+		"clean-css-brunch": "^2",
+		"uglify-js-brunch": "^2"
+	}
+}

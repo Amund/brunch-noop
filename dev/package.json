@@ -17,7 +17,6 @@
 		"jquery": "^3.2.1"
 	},
 	"devDependencies": {
-		"auto-reload-brunch": "^2",
 		"brunch": "^2",
 		"clean-css-brunch": "^2",
 		"uglify-js-brunch": "^2"
